@@ -1,0 +1,4 @@
+garminconnect>=0.3.11
+google-api-python-client>=2.199.0
+google-auth-oauthlib>=1.4.1
+psycopg[binary]>=3.3.4

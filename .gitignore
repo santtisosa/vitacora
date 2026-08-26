@@ -1,0 +1,22 @@
+# Python
+sync/.venv/
+sync/__pycache__/
+sync/**/__pycache__/
+sync/.pytest_cache/
+*.pyc
+
+# Secretos y tokens locales -- nunca al repo
+sync/client_secrets.json
+.env
+.env.local
+~/.garminconnect/
+~/.vitacora/
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+web/.env*.local
+
+# OS
+.DS_Store
